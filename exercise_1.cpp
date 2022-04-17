@@ -7,9 +7,9 @@ int mS (int A[], int n);
 
 int main (){
 
-    int Vector[] = {22, 43, 4, 3, 2, 87, 55, 7, 35, 54};
+    int Vector[] = {22, 43, 4, 3, 2, 87, 55, 7, 35, 54, -9};
 
-    printf("Result: %d \n", mS(Vector, 10));
+    printf("Result: %d \n", mS(Vector, 11));
 
     return 0;
 
